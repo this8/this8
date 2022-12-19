@@ -34,4 +34,4 @@
   <a href="https://www.figma.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://github.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
 </p>
-<p>https://github-readme-stats.vercel.app/api/top-langs/?username=this8&layout=compact</p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=this8&layout=compact
