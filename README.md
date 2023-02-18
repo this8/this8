@@ -41,7 +41,7 @@
   </a>
 <!-- AWS -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="" height=""/>
   </a>
 <!-- HTML 5 -->
   <a href="" target="_blank">
