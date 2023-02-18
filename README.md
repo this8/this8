@@ -21,59 +21,59 @@
   
 <!-- Apex -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Apex" width="64" height="64"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Apex" width="48" height="48"/>
   </a>
 <!-- HTML 5 -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="64" height="64"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
   </a>
 <!-- CSS 3 -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="64" height="64"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
   </a>
 <!-- JavaScript -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
   </a>
-  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="64"/>
+  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
 <!-- C++ -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="64" height="64"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
   </a>
 <!-- Java -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="64" height="64"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
   </a>
 <!-- C# / .NET -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="64" height="64"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/>
   </a>
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="64" height="64"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="48" height="48"/>
   </a>
-  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="64"/>
+  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
 <!-- GDScript -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="GDScript" width="64" height="64"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="GDScript" width="48" height="48"/>
   </a>
-  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="64"/>
+  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
 <!-- AWS -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="64" height="64"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48" height="48"/>
   </a>
 <!-- GitHub -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="64" height="64"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
   </a>
-  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="64"/>
+  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
 <!-- Apple -->
   <a href="https://www.apple.com" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="64" height="64"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="48" height="48"/>
   </a>
-  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="64"/>
+  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
 <!-- Ceylon -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ceylon/ceylon-original-wordmark.svg" alt="Ceylon" width="64" height="64"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ceylon/ceylon-original-wordmark.svg" alt="Ceylon" width="48" height="48"/>
   </a>
   
 </p>
