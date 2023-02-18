@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with audio plugin development
 - 💬 Ask me about anything related to computer science and music ;)
 - 📫 How to reach me: thissamarakoon@gmail.com
-- ⚡ Fun fact: I like cars 🏎️
+- ⚡ Fun fact: I love cats 😼, pianos and synths 🎹
 
 <h3 align="left">Hacktoberfest 2023 Badges (I got the swag pack 😋)</h3>
 
@@ -19,6 +19,10 @@
 
 <p align="left">
   
+<!-- Apex -->
+  <a href="" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Apex" width="64" height="64"/>
+  </a>
 <!-- HTML 5 -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="64" height="64"/>
@@ -31,7 +35,7 @@
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64"/>
   </a>
-  &emsp;
+  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="64"/>
 <!-- C++ -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="64" height="64"/>
@@ -47,16 +51,12 @@
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="64" height="64"/>
   </a>
-<!-- Apex -->
-  <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Apex" width="64" height="64"/>
-  </a>
-  &emsp;
+  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="64"/>
 <!-- GDScript -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="GDScript" width="64" height="64"/>
   </a>
-  &emsp;
+  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="64"/>
 <!-- AWS -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="64" height="64"/>
@@ -65,12 +65,12 @@
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="64" height="64"/>
   </a>
-  &emsp;
+  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="64"/>
 <!-- Apple -->
   <a href="https://www.apple.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="64" height="64"/>
   </a>
-  &emsp;
+  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="64"/>
 <!-- Ceylon -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ceylon/ceylon-original-wordmark.svg" alt="Ceylon" width="64" height="64"/>
