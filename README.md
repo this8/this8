@@ -31,7 +31,7 @@
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  |
+  
 <!-- C++ -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -51,7 +51,7 @@
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Apex" width="40" height="40"/>
   </a>
-  |
+  
 <!-- GDScript -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="GDScript" width="40" height="40"/>
