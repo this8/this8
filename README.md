@@ -15,65 +15,65 @@
 
 [![@thisura's Holopin board](https://holopin.me/thisura)](https://holopin.io/@thisura)
 
-<h3 align="left">Languages and Tools I use</h3>
+<h3 align="left">The Languages and Tools I use the most</h3>
 
 <p align="left">
   
 <!-- HTML 5 -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="64" height="64"/>
   </a>
 <!-- CSS 3 -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="64" height="64"/>
   </a>
 <!-- JavaScript -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64"/>
   </a>
   &emsp;
 <!-- C++ -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="64" height="64"/>
   </a>
 <!-- Java -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="64" height="64"/>
   </a>
 <!-- C# / .NET -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="64" height="64"/>
   </a>
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="64" height="64"/>
   </a>
 <!-- Apex -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Apex" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Apex" width="64" height="64"/>
   </a>
   &emsp;
 <!-- GDScript -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="GDScript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="GDScript" width="64" height="64"/>
   </a>
   &emsp;
 <!-- AWS -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="64" height="64"/>
   </a>
 <!-- GitHub -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="64" height="64"/>
   </a>
   &emsp;
 <!-- Apple -->
   <a href="https://www.apple.com" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="64" height="64"/>
   </a>
   &emsp;
 <!-- Ceylon -->
   <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ceylon/ceylon-original-wordmark.svg" alt="Ceylon" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ceylon/ceylon-original-wordmark.svg" alt="Ceylon" width="64" height="64"/>
   </a>
   
 </p>
