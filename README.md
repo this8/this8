@@ -3,7 +3,7 @@
 
 <!-- **this8/this8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on Salesforce Projects
+- 🔭 I’m currently working on Salesforce projects
 - 🌱 I’m currently learning Apex and GDScript
 - 👯 I’m looking to collaborate on music software applications (and productions too!)
 - 🤔 I’m looking for help with audio plugin development
@@ -19,35 +19,6 @@
 
 <p align="left">
   
-<!-- C++ -->
-  <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-<!-- Java -->
-  <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-<!-- C# / .NET -->
-  <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  
-  <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-  </a>
-  
-<!-- Apex -->
-  <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Apex" width="40" height="40"/>
-  </a>
-<!-- GDScript -->
-  <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="GDScript" width="40" height="40"/>
-  </a>
-<!-- AWS -->
-  <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  </a>
 <!-- HTML 5 -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -60,20 +31,49 @@
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  
-  <!-- Apple -->
+  |
+<!-- C++ -->
+  <a href="" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+<!-- Java -->
+  <a href="" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+<!-- C# / .NET -->
+  <a href="" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  </a>
+<!-- Apex -->
+  <a href="" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Apex" width="40" height="40"/>
+  </a>
+  |
+<!-- GDScript -->
+  <a href="" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="GDScript" width="40" height="40"/>
+  </a>
+  |
+<!-- AWS -->
+  <a href="" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  </a>
+<!-- GitHub -->
+  <a href="" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  |
+<!-- Apple -->
   <a href="https://www.apple.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/>
   </a>
-  
-  <!-- Ceylon -->
+  |
+<!-- Ceylon -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ceylon/ceylon-original-wordmark.svg" alt="Ceylon" width="40" height="40"/>
-  </a>
-  
-  <!-- GitHub -->
-  <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
   
 </p>
