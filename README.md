@@ -70,10 +70,14 @@
   <a href="https://www.apple.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="48" height="48"/>
   </a>
-  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
+  <!--
+<img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
+-->
 <!-- Ceylon -->
+  <!--
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ceylon/ceylon-original-wordmark.svg" alt="Ceylon" width="48" height="48"/>
   </a>
+-->
   
 </p>
