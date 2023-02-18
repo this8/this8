@@ -1,4 +1,4 @@
-### Hey!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Profile views](https://gpvc.arturio.dev/this8)
 
 <!-- **this8/this8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -41,7 +41,7 @@
   </a>
 <!-- AWS -->
   <a href="" target="_blank">
-    <img src="" alt="AWS" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
 <!-- HTML 5 -->
   <a href="" target="_blank">
