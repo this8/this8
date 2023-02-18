@@ -3,54 +3,57 @@
 
 <!-- **this8/this8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- Here are some ideas to get you started: -->
-
-<!-- - 🔭 I’m currently working on -->
+- 🔭 I’m currently working on Salesforce Projects
 - 🌱 I’m currently learning Apex and GDScript
 - 👯 I’m looking to collaborate on music software applications (and productions too!)
 - 🤔 I’m looking for help with audio plugin development
 - 💬 Ask me about anything related to computer science and music ;)
 - 📫 How to reach me: thissamarakoon@gmail.com
 - ⚡ Fun fact: I like cars 🏎️
-<!-- - 😄 Pronouns: ... -->
-<!-- <img src="https://wakatime.com/share/@1556bdf1-0413-42dd-8133-defa0b9b7671/7b080987-17b1-4f93-abaa-ec48d0db3609.svg" width="720px"> -->
-<h3 align="left">Hacktoberfest 2023</h3>
+
+<h3 align="left">Hacktoberfest 2023 Badges (I got the swag pack 😋)</h3>
 
 [![@thisura's Holopin board](https://holopin.me/thisura)](https://holopin.io/@thisura)
 
+<h3 align="left">Languages and Tools I use</h3>
 
-<!--
-[![Thisura's GitHub stats](https://github-readme-stats.vercel.app/api?username=this8&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=this8&hide=css,blade&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <!--
-<a href="https://www.rust-lang.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
--->
-  <a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
-  <!--
-<a href="https://go.dev" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a> 
--->
-  <!--
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
--->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <!--
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
--->
-  <!--
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
--->
-  <!--
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
--->
-  <!--
-  <a href="https://flutter.dev" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
--->
-  <!--
-  <a href="https://www.figma.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
--->
-  <a href="https://github.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+<p align="left">
+  
+<!-- C++ -->
+  <a href="" target="_blank">
+    <img src="" alt="C++" width="40" height="40"/>
+  </a>
+<!-- Java -->
+  <a href="" target="_blank">
+    <img src="" alt="Java" width="40" height="40"/>
+  </a>
+<!-- C# / .NET -->
+  <a href="" target="_blank">
+    <img src="" alt="C# / .NET" width="40" height="40"/>
+  </a>
+<!-- Apex -->
+  <a href="" target="_blank">
+    <img src="" alt="Apex" width="40" height="40"/>
+  </a>
+<!-- GDScript -->
+  <a href="" target="_blank">
+    <img src="" alt="GDScript" width="40" height="40"/>
+  </a>
+<!-- AWS -->
+  <a href="" target="_blank">
+    <img src="" alt="AWS" width="40" height="40"/>
+  </a>
+<!-- HTML 5 -->
+  <a href="" target="_blank">
+    <img src="" alt="HTML5" width="40" height="40"/>
+  </a>
+<!-- CSS 3 -->
+  <a href="" target="_blank">
+    <img src="" alt="CSS3" width="40" height="40"/>
+  </a>
+<!-- JavaScript -->
+  <a href="" target="_blank">
+    <img src="" alt="JavaScript" width="40" height="40"/>
+  </a>
+  
 </p>
