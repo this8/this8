@@ -21,23 +21,28 @@
   
 <!-- C++ -->
   <a href="" target="_blank">
-    <img src="" alt="C++" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
 <!-- Java -->
   <a href="" target="_blank">
-    <img src="" alt="Java" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
 <!-- C# / .NET -->
   <a href="" target="_blank">
-    <img src="" alt="C# / .NET" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
+  
+  <a href="" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  </a>
+  
 <!-- Apex -->
   <a href="" target="_blank">
-    <img src="" alt="Apex" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Apex" width="40" height="40"/>
   </a>
 <!-- GDScript -->
   <a href="" target="_blank">
-    <img src="" alt="GDScript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="GDScript" width="40" height="40"/>
   </a>
 <!-- AWS -->
   <a href="" target="_blank">
@@ -45,15 +50,30 @@
   </a>
 <!-- HTML 5 -->
   <a href="" target="_blank">
-    <img src="" alt="HTML5" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
 <!-- CSS 3 -->
   <a href="" target="_blank">
-    <img src="" alt="CSS3" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
 <!-- JavaScript -->
   <a href="" target="_blank">
-    <img src="" alt="JavaScript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  
+  <!-- Apple -->
+  <a href="https://www.apple.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/>
+  </a>
+  
+  <!-- Ceylon -->
+  <a href="" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ceylon/ceylon-original-wordmark.svg" alt="Ceylon" width="40" height="40"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
   
 </p>
