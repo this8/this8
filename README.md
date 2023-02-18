@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Apex and GDScript
 - 👯 I’m looking to collaborate on music software applications (and productions too!)
 - 🤔 I’m looking for help with audio plugin development
-- 💬 Ask me about anything related to computer science and music ;)
+- 💬 Ask me about anything related to computer science and music ☺️
 - 📫 How to reach me: thissamarakoon@gmail.com
 - ⚡ Fun fact: I love cats 😼, pianos and synths 🎹
 
