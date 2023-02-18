@@ -31,7 +31,7 @@
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <span>
+  &nbsp;
 <!-- C++ -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -51,12 +51,12 @@
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Apex" width="40" height="40"/>
   </a>
-  
+  &nbsp;
 <!-- GDScript -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="GDScript" width="40" height="40"/>
   </a>
-  |
+  &nbsp;
 <!-- AWS -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
@@ -65,12 +65,12 @@
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  |
+  &nbsp;
 <!-- Apple -->
   <a href="https://www.apple.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/>
   </a>
-  |
+  &nbsp;
 <!-- Ceylon -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ceylon/ceylon-original-wordmark.svg" alt="Ceylon" width="40" height="40"/>
