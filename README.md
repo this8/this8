@@ -14,6 +14,7 @@
 - ⚡ Fun fact: I like cars 🏎️
 <!-- - 😄 Pronouns: ... -->
 <!-- <img src="https://wakatime.com/share/@1556bdf1-0413-42dd-8133-defa0b9b7671/7b080987-17b1-4f93-abaa-ec48d0db3609.svg" width="720px"> -->
+<h3 align="left">Hacktoberfest 2023</h3>
 [![@thisura's Holopin board](https://holopin.me/thisura)](https://holopin.io/@thisura)
 
 
