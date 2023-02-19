@@ -11,10 +11,7 @@
 - 🤔 I’m looking for help with audio plugin development
 - 💬 Ask me about anything related to computer science and music ☺️
 - ⚡ Fun fact: I love cats 😼, pianos and synths 🎹
-
-<h4>📫 How to reach me:</h4>
-
-[![Gmail Badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg)](mailto:thissamarakoon@gmail.com) [![Linkedin Badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/thisura-samarakoon/) [![Facebook Badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg)](https://www.facebook.com/thisuramanjitha.samarakoon/)
+<hr>
 
 <h3 align="left">Hacktoberfest 2023 Badges (I got the swag pack 😋)</h3>
 
@@ -91,3 +88,7 @@
 -->
   
 </p>
+<hr>
+<h4>📫 How to reach me:</h4>
+
+[![Gmail Badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg)](mailto:thissamarakoon@gmail.com) [![Linkedin Badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/thisura-samarakoon/) [![Facebook Badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg)](https://www.facebook.com/thisuramanjitha.samarakoon/)
