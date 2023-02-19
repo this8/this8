@@ -1,15 +1,20 @@
-# Hey! I'm Thisura <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center"> Hey! I'm Thisura <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h3 align="center">👨🏻‍🎓 Undergraduate&nbsp|&nbsp👨🏻‍💻 Software Engineer - Trainee&nbsp|&nbsp👨🏻‍🎤 Musician</h3>
+
 ![Profile views](https://gpvc.arturio.dev/this8)
 
 <!-- **this8/this8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on Salesforce projects
+- 🔭 I’m currently studying BSc. (Hons) in Computer Science at NSBM Green University, Sri Lanka
 - 🌱 I’m currently learning Apex and GDScript
 - 👯 I’m looking to collaborate on music software applications (and productions too!)
 - 🤔 I’m looking for help with audio plugin development
 - 💬 Ask me about anything related to computer science and music ☺️
-- 📫 How to reach me: thissamarakoon@gmail.com
 - ⚡ Fun fact: I love cats 😼, pianos and synths 🎹
+
+<h4>📫 How to reach me:</h4>
+
+[![Gmail Badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg)](mailto:thissamarakoon@gmail.com) [![Linkedin Badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/thisura-samarakoon/) [![Facebook Badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg)](https://www.facebook.com/thisuramanjitha.samarakoon/)
 
 <h3 align="left">Hacktoberfest 2023 Badges (I got the swag pack 😋)</h3>
 
@@ -23,6 +28,7 @@
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Apex" width="48" height="48"/>
   </a>
+  <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
 <!-- HTML 5 -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
@@ -34,6 +40,10 @@
 <!-- JavaScript -->
   <a href="" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
+  </a>
+<!-- SvelteKit -->
+  <a href="" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="SvelteKit" width="48" height="48"/>
   </a>
   <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
 <!-- C++ -->
