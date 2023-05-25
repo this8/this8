@@ -1,5 +1,5 @@
 <h1 align="center"> Hey! I'm Thisura <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<h3 align="center">👨🏻‍🎓 Undergraduate&nbsp|&nbsp👨🏻‍💻 Software Engineer - Trainee&nbsp|&nbsp👨🏻‍🎤 Musician</h3>
+<h3 align="center">👨🏻‍🎓 Undergraduate&nbsp|&nbsp👨🏻‍💻 Software Engineer&nbsp|&nbsp👨🏻‍🎤 Musician</h3>
 
 ![Profile views](https://gpvc.arturio.dev/this8)
 
