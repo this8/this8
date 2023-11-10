@@ -39,8 +39,8 @@
   <a target="_blank" rel="noopener" href="https://www.java.com/en/download/help/whatis_java.html">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
   </a>
-  <!-- Spring -->
-  <a target="_blank" rel="noopener" href="">
+<!-- Spring -->
+  <a target="_blank" rel="noopener" href="https://spring.io/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="48" height="48"/>
   </a>
   <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
@@ -56,6 +56,10 @@
 <!-- Apple -->
   <a target="_blank" rel="noopener" href="https://www.apple.com/mac/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="48" height="48"/>
+  </a>
+<!-- Windows -->
+  <a target="_blank" rel="noopener" href="https://www.microsoft.com/en-us/windows?r=1">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Apple" width="48" height="48"/>
   </a>
   
 </p>
