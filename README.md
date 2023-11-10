@@ -22,35 +22,35 @@
 <p align="left">
   
 <!-- Apex -->
-  <a href="" target="_blank">
+  <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Apex" width="48" height="48"/>
   </a>
   <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
 <!-- Angular -->
-  <a href="" target="_blank">
+  <a href="https://angular.io/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="48" height="48"/>
   </a>
   <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
 <!-- C++ -->
-  <a href="" target="_blank">
+  <a href="https://cplusplus.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
   </a>
 <!-- Java -->
-  <a href="" target="_blank">
+  <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
   </a>
   <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
 <!-- AWS -->
-  <a href="" target="_blank">
+  <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48" height="48"/>
   </a>
 <!-- GitHub -->
-  <a href="" target="_blank">
+  <a href="https://github.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
   </a>
   <img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
 <!-- Apple -->
-  <a href="https://www.apple.com" target="_blank">
+  <a href="https://www.apple.com/mac/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="48" height="48"/>
   </a>
   
