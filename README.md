@@ -1,8 +1,7 @@
 <h1 align="center"> Hey! I'm Thisura <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<h3 align="center">👨🏻‍💻 Salesforce Trainee Engineer ☁️🇱🇰 | 1X Salesforce Certified |👨🏻‍🎤 Musician |👨🏻‍🎓 Computer Science Undergraduate</h3>
-<!-- <h3 align="center">👨🏻‍🎓 Undergraduate&nbsp|&nbsp👨🏻‍💻 Software Engineer&nbsp|&nbsp👨🏻‍🎤 Musician</h3> -->
+<h3 align="center">👨🏻‍💻 Salesforce Trainee Engineer ☁️🇱🇰&nbsp|&nbsp1X Salesforce Certified&nbsp|&nbsp👨🏻‍🎤 Musician&nbsp|&nbsp👨🏻‍🎓 Computer Science Undergraduate</h3>
 
-![Profile views](https://gpvc.arturio.dev/this8)
+<!-- ![Profile views](https://gpvc.arturio.dev/this8) -->
 
 <!-- **this8/this8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -54,15 +53,6 @@
   <a href="https://www.apple.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="48" height="48"/>
   </a>
-  <!--
-<img src="https://user-images.githubusercontent.com/60652250/219874422-e13a1533-1000-410f-aad4-465a9d9cd1e1.png" width="10" height="48"/>
--->
-<!-- Ceylon -->
-  <!--
-  <a href="" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ceylon/ceylon-original-wordmark.svg" alt="Ceylon" width="48" height="48"/>
-  </a>
--->
   
 </p>
 <hr>
